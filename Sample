@@ -1,6 +1,6 @@
 import java.util.*;
 class Sample
 {
-
+int a,b;
 
 }
